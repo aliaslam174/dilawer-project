@@ -82,7 +82,7 @@ function Portfolio() {
       image: port6,
       name: "Fazulo",
       post: "Dissel"
-    },
+    }
 
   ]
 
